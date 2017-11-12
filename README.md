@@ -1,2 +1,2 @@
-# othello
-A project implemented for my ICS 32 class where I created the game Othello, game logic, GUI and all.
+# coursework-projects
+Projects implemented in my CS classes at UC Irvine.
